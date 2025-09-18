@@ -1,4 +1,4 @@
-<img src="" alt="my-linkedin-banner" />
+<img src="https://github.com/t-Ankit-Rathaur/hello-verse/blob/main/images/github-profile-banner.png" alt="my-linkedin-banner" />
 <h1 align="center">Hi 👋, I'm Ankit Rathaur</h1>
 <h3 align="center">A passionate Machine Learning Engineering from India.</h3>
 
