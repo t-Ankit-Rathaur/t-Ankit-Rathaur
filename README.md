@@ -3,7 +3,7 @@
 <img src="https://github.com/t-Ankit-Rathaur/hello-verse/blob/main/images/github-profile-banner.png" alt="my-linkedin-banner" />
 <!-- ================== HEADER ================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=22e1ff&center=true&width=600&height=80&lines=Hi,+This+is+Ankit+Rathaur🚀;Machine+Learning+Engineer+|+Operational+Research;From,+India+🇮🇳" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Joti+One&size=30&duration=2500&pause=1000&color=22e1ff&center=true&width=600&height=80&lines=Hi,+This+is+Ankit+Rathaur🚀;Learning+Machine+Engineering,;Operational+Research;From,+India+🇮🇳;Thank+you+for+visiting." alt="Typing SVG"/>
 </h1>
 <h3 align="center">Machine Learning Engineer from India 🇮🇳 with a passion for transforming complex data into intelligent, scalable solutions.</h3>
 
