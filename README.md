@@ -83,7 +83,7 @@
 <!-- ==================== Google Cloud Service ==================== -->
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 
-<!-- ====================== Commenting out the other libraries ================================ -->
+<!-- ====================== Commenting out the other libraries Logos. ================================ -->
 <!--
 <!-- ==================== Pytorch ====================
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
@@ -95,7 +95,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> 
 -->
 
-<!-- ====================== Commenting oout the other libraries ================================ -->
+<!-- ====================== Commenting Out the Other libraries Logo ================================ -->
 <!-- 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Buy-Me-a-Cold-Coffee t-Ankit-Rathaur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy-Me-a-Cold-Coffee t-Ankit-Rathaur" /></a></p>
