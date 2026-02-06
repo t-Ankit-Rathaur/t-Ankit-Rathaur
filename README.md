@@ -14,7 +14,7 @@
   <a href="https://github.com/ankitrathaur?tab=followers">
     <img src="https://img.shields.io/github/followers/ankitrathaur?label=Followers&style=social" alt="GitHub followers"/>
   </a>
-  <a href="https://www.linkedin.com/in/ankitrathaur">
+  <a href="https://www.linkedin.com/in/ankit-rathaur/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social" alt="LinkedIn"/>
   </a>
 </p>
