@@ -1,5 +1,5 @@
 <!-- ================== HEADER-DESCRIPTION ================== -->
-<img src="https://github.com/t-Ankit-Rathaur/hello-verse/blob/main/images/github-profile-banner.png" alt="my-linkedin-banner" />
+<!-- <img src="https://github.com/t-Ankit-Rathaur/hello-verse/blob/main/images/github-profile-banner.png" alt="my-linkedin-banner" /> -->
 
 <!-- ================== HEADER ================== -->
 <p>
